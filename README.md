@@ -15,7 +15,7 @@ A standalone Windows EXE tool that converts directly TrueType fonts (TTF) into C
 
 ## ◦ Key Features  
 • Select your TTF file, font size, and character mapping range.  
-• Automatic cleanup of the BDF file after header generation.  
+• Directly export .h file in single click, no coding or technique require.
 • Simple GUI designed for embedded C/C++ projects.  
 
 ## ◦ Usage  
