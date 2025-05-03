@@ -9,6 +9,10 @@
 ## ◦ Overview  
 A standalone Windows EXE tool that converts directly TrueType fonts (TTF) into C header files (.h) compatible with u8g2/LovyanGFX. Suppport Vietnamese and other non-asCII language.
 
+![image](https://github.com/user-attachments/assets/591a870e-4fa3-4391-aa71-576f90a776a4)
+![image](https://github.com/user-attachments/assets/42fcb67e-0584-49c0-be8a-1de5422fee21)
+
+
 ## ◦ Key Features  
 • Select your TTF file, font size, and character mapping range.  
 • Automatic cleanup of the BDF file after header generation.  
